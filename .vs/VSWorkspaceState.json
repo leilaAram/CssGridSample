@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\sass"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\sass\\_sidebar.scss",
   "PreviewInSolutionExplorer": false
 }
